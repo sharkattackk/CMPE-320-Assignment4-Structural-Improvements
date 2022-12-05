@@ -1,3 +1,8 @@
+//CMPE 320 Assignment 4 Cameron Bennett
+//19cmb13 20204518
+//cpp file
+
+
 #include <iostream>
 using namespace std;
 #include <string>

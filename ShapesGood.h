@@ -1,6 +1,5 @@
 //assignment 4 -- Structural Improvements
-// Cameron Bennett 19cmb13 20204518 
-
+// Cameron Bennett 19cmb13 20204518
 // Header file
 
 using namespace std;
